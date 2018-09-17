@@ -16,7 +16,10 @@ class DetailViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped))
+        title = "View Picture"
+        
+        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(shareTapped))
+
 
         if let imageToLoad = selectedImage {
             detailImageView.image  = UIImage(named: imageToLoad)
@@ -32,6 +35,13 @@ class DetailViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         navigationController?.hidesBarsOnTap = true
+    }
+    
+    // This method shared the image with other people by facebook, email whatsup etc
+    @objc func shareTapped() {
+        let viewController = UIActivityViewController(activityItems: [detailImageView.image!], applicationActivities: [])
+        viewController.popoverPresentationController?.barButtonItem = navigationItem.rightBarButtonItem
+        present(viewController, animated: true)
     }
     
     override func viewWillDisappear(_ animated: Bool) {

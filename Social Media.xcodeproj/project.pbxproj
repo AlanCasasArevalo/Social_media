@@ -8,24 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		5123D451213BC4C300817CA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D450213BC4C300817CA8 /* AppDelegate.swift */; };
-		5123D453213BC4C300817CA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D452213BC4C300817CA8 /* ViewController.swift */; };
 		5123D456213BC4C300817CA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5123D454213BC4C300817CA8 /* Main.storyboard */; };
 		5123D45B213BC4C500817CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5123D459213BC4C500817CA8 /* LaunchScreen.storyboard */; };
 		5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5123D474213BCEEB00817CA8 /* Assets.xcassets */; };
 		5123D477213BD0F500817CA8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D476213BD0F500817CA8 /* TableViewController.swift */; };
 		5123D479213BD48800817CA8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D478213BD48800817CA8 /* DetailViewController.swift */; };
+		515075AF214FEC4A002219DB /* 69779991-monsters-wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A5214FEC49002219DB /* 69779991-monsters-wallpapers.jpg */; };
+		515075B0214FEC4A002219DB /* 4731999-country-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A6214FEC49002219DB /* 4731999-country-wallpaper.jpg */; };
+		515075B1214FEC4A002219DB /* 292599.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A7214FEC4A002219DB /* 292599.jpg */; };
+		515075B2214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A8214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg */; };
+		515075B3214FEC4A002219DB /* 4816579-god-of-war-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A9214FEC4A002219DB /* 4816579-god-of-war-wallpaper.jpg */; };
+		515075B4214FEC4A002219DB /* 30395.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075AA214FEC4A002219DB /* 30395.jpg */; };
+		515075B5214FEC4A002219DB /* 5326723-game-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075AB214FEC4A002219DB /* 5326723-game-wallpaper.jpg */; };
+		515075B6214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075AC214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg */; };
+		515075B7214FEC4A002219DB /* 3366d39c623643d768d82fe197d766c6_large.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 515075AD214FEC4A002219DB /* 3366d39c623643d768d82fe197d766c6_large.jpeg */; };
+		515075B8214FEC4A002219DB /* 28328-fantasy_art.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075AE214FEC4A002219DB /* 28328-fantasy_art.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5123D44D213BC4C300817CA8 /* Social Media.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Social Media.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5123D44D213BC4C300817CA8 /* SocialMedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialMedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5123D450213BC4C300817CA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5123D452213BC4C300817CA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5123D455213BC4C300817CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5123D45A213BC4C500817CA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5123D45C213BC4C500817CA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5123D474213BCEEB00817CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5123D476213BD0F500817CA8 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		5123D478213BD48800817CA8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		515075A5214FEC49002219DB /* 69779991-monsters-wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "69779991-monsters-wallpapers.jpg"; sourceTree = "<group>"; };
+		515075A6214FEC49002219DB /* 4731999-country-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "4731999-country-wallpaper.jpg"; sourceTree = "<group>"; };
+		515075A7214FEC4A002219DB /* 292599.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 292599.jpg; sourceTree = "<group>"; };
+		515075A8214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "4171167-civilization-wallpapers.jpg"; sourceTree = "<group>"; };
+		515075A9214FEC4A002219DB /* 4816579-god-of-war-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "4816579-god-of-war-wallpaper.jpg"; sourceTree = "<group>"; };
+		515075AA214FEC4A002219DB /* 30395.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 30395.jpg; sourceTree = "<group>"; };
+		515075AB214FEC4A002219DB /* 5326723-game-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "5326723-game-wallpaper.jpg"; sourceTree = "<group>"; };
+		515075AC214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "861789-artwork-fantasy-art-wings.jpg"; sourceTree = "<group>"; };
+		515075AD214FEC4A002219DB /* 3366d39c623643d768d82fe197d766c6_large.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3366d39c623643d768d82fe197d766c6_large.jpeg; sourceTree = "<group>"; };
+		515075AE214FEC4A002219DB /* 28328-fantasy_art.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "28328-fantasy_art.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +68,7 @@
 		5123D44E213BC4C300817CA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5123D44D213BC4C300817CA8 /* Social Media.app */,
+				5123D44D213BC4C300817CA8 /* SocialMedia.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -59,10 +77,19 @@
 			isa = PBXGroup;
 			children = (
 				5123D450213BC4C300817CA8 /* AppDelegate.swift */,
-				5123D452213BC4C300817CA8 /* ViewController.swift */,
 				5123D454213BC4C300817CA8 /* Main.storyboard */,
 				5123D478213BD48800817CA8 /* DetailViewController.swift */,
 				5123D476213BD0F500817CA8 /* TableViewController.swift */,
+				515075AD214FEC4A002219DB /* 3366d39c623643d768d82fe197d766c6_large.jpeg */,
+				515075AE214FEC4A002219DB /* 28328-fantasy_art.jpg */,
+				515075AA214FEC4A002219DB /* 30395.jpg */,
+				515075A7214FEC4A002219DB /* 292599.jpg */,
+				515075AC214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg */,
+				515075A8214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg */,
+				515075A6214FEC49002219DB /* 4731999-country-wallpaper.jpg */,
+				515075A9214FEC4A002219DB /* 4816579-god-of-war-wallpaper.jpg */,
+				515075AB214FEC4A002219DB /* 5326723-game-wallpaper.jpg */,
+				515075A5214FEC49002219DB /* 69779991-monsters-wallpapers.jpg */,
 				5123D459213BC4C500817CA8 /* LaunchScreen.storyboard */,
 				5123D474213BCEEB00817CA8 /* Assets.xcassets */,
 				5123D45C213BC4C500817CA8 /* Info.plist */,
@@ -73,9 +100,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5123D44C213BC4C300817CA8 /* Social Media */ = {
+		5123D44C213BC4C300817CA8 /* SocialMedia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5123D45F213BC4C500817CA8 /* Build configuration list for PBXNativeTarget "Social Media" */;
+			buildConfigurationList = 5123D45F213BC4C500817CA8 /* Build configuration list for PBXNativeTarget "SocialMedia" */;
 			buildPhases = (
 				5123D449213BC4C300817CA8 /* Sources */,
 				5123D44A213BC4C300817CA8 /* Frameworks */,
@@ -85,9 +112,9 @@
 			);
 			dependencies = (
 			);
-			name = "Social Media";
+			name = SocialMedia;
 			productName = "Listing images with FileManager Listing images with FileManager Listing images with FileManager";
-			productReference = 5123D44D213BC4C300817CA8 /* Social Media.app */;
+			productReference = 5123D44D213BC4C300817CA8 /* SocialMedia.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -118,7 +145,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5123D44C213BC4C300817CA8 /* Social Media */,
+				5123D44C213BC4C300817CA8 /* SocialMedia */,
 			);
 		};
 /* End PBXProject section */
@@ -128,9 +155,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				515075B8214FEC4A002219DB /* 28328-fantasy_art.jpg in Resources */,
+				515075B3214FEC4A002219DB /* 4816579-god-of-war-wallpaper.jpg in Resources */,
+				515075B7214FEC4A002219DB /* 3366d39c623643d768d82fe197d766c6_large.jpeg in Resources */,
+				515075AF214FEC4A002219DB /* 69779991-monsters-wallpapers.jpg in Resources */,
+				515075B4214FEC4A002219DB /* 30395.jpg in Resources */,
 				5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */,
+				515075B0214FEC4A002219DB /* 4731999-country-wallpaper.jpg in Resources */,
+				515075B5214FEC4A002219DB /* 5326723-game-wallpaper.jpg in Resources */,
+				515075B2214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg in Resources */,
+				515075B6214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg in Resources */,
 				5123D45B213BC4C500817CA8 /* LaunchScreen.storyboard in Resources */,
 				5123D456213BC4C300817CA8 /* Main.storyboard in Resources */,
+				515075B1214FEC4A002219DB /* 292599.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,7 +178,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5123D453213BC4C300817CA8 /* ViewController.swift in Sources */,
 				5123D477213BD0F500817CA8 /* TableViewController.swift in Sources */,
 				5123D451213BC4C300817CA8 /* AppDelegate.swift in Sources */,
 				5123D479213BD48800817CA8 /* DetailViewController.swift in Sources */,
@@ -290,12 +326,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5J2G4846S8;
-				INFOPLIST_FILE = "Social Media/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Social Media/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.alancasasarevalo-gmail.Social_Media";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.alancasasarevalo-gmail.SocialMedia";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -308,12 +344,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5J2G4846S8;
-				INFOPLIST_FILE = "Social Media/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Social Media/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.alancasasarevalo-gmail.Social_Media";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.alancasasarevalo-gmail.SocialMedia";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -332,7 +368,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5123D45F213BC4C500817CA8 /* Build configuration list for PBXNativeTarget "Social Media" */ = {
+		5123D45F213BC4C500817CA8 /* Build configuration list for PBXNativeTarget "SocialMedia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5123D460213BC4C500817CA8 /* Debug */,
