@@ -13,6 +13,8 @@
 		5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5123D474213BCEEB00817CA8 /* Assets.xcassets */; };
 		5123D477213BD0F500817CA8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D476213BD0F500817CA8 /* TableViewController.swift */; };
 		5123D479213BD48800817CA8 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5123D478213BD48800817CA8 /* DetailViewController.swift */; };
+		514F1BA121562DFD003E1848 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 514F1BA021562DFD003E1848 /* README.md */; };
+		514F1BA321562E6B003E1848 /* SharePicture.gif in Resources */ = {isa = PBXBuildFile; fileRef = 514F1BA221562E6B003E1848 /* SharePicture.gif */; };
 		515075AF214FEC4A002219DB /* 69779991-monsters-wallpapers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A5214FEC49002219DB /* 69779991-monsters-wallpapers.jpg */; };
 		515075B0214FEC4A002219DB /* 4731999-country-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A6214FEC49002219DB /* 4731999-country-wallpaper.jpg */; };
 		515075B1214FEC4A002219DB /* 292599.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 515075A7214FEC4A002219DB /* 292599.jpg */; };
@@ -34,6 +36,8 @@
 		5123D474213BCEEB00817CA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5123D476213BD0F500817CA8 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		5123D478213BD48800817CA8 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		514F1BA021562DFD003E1848 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		514F1BA221562E6B003E1848 /* SharePicture.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SharePicture.gif; sourceTree = "<group>"; };
 		515075A5214FEC49002219DB /* 69779991-monsters-wallpapers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "69779991-monsters-wallpapers.jpg"; sourceTree = "<group>"; };
 		515075A6214FEC49002219DB /* 4731999-country-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "4731999-country-wallpaper.jpg"; sourceTree = "<group>"; };
 		515075A7214FEC4A002219DB /* 292599.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 292599.jpg; sourceTree = "<group>"; };
@@ -60,6 +64,8 @@
 		5123D444213BC4C300817CA8 = {
 			isa = PBXGroup;
 			children = (
+				514F1BA221562E6B003E1848 /* SharePicture.gif */,
+				514F1BA021562DFD003E1848 /* README.md */,
 				5123D44F213BC4C300817CA8 /* Social Media */,
 				5123D44E213BC4C300817CA8 /* Products */,
 			);
@@ -161,10 +167,12 @@
 				515075AF214FEC4A002219DB /* 69779991-monsters-wallpapers.jpg in Resources */,
 				515075B4214FEC4A002219DB /* 30395.jpg in Resources */,
 				5123D475213BCEEB00817CA8 /* Assets.xcassets in Resources */,
+				514F1BA321562E6B003E1848 /* SharePicture.gif in Resources */,
 				515075B0214FEC4A002219DB /* 4731999-country-wallpaper.jpg in Resources */,
 				515075B5214FEC4A002219DB /* 5326723-game-wallpaper.jpg in Resources */,
 				515075B2214FEC4A002219DB /* 4171167-civilization-wallpapers.jpg in Resources */,
 				515075B6214FEC4A002219DB /* 861789-artwork-fantasy-art-wings.jpg in Resources */,
+				514F1BA121562DFD003E1848 /* README.md in Resources */,
 				5123D45B213BC4C500817CA8 /* LaunchScreen.storyboard in Resources */,
 				5123D456213BC4C300817CA8 /* Main.storyboard in Resources */,
 				515075B1214FEC4A002219DB /* 292599.jpg in Resources */,
