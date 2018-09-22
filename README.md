@@ -4,7 +4,7 @@
 > iOS Shared button example
 
 ## Preview
-![](https://github.com/AlanCasasArevalo/DinamicCells/blob/master/Picture.png)
+![](https://github.com/AlanCasasArevalo/Social_media/blob/master/SharePicture.gif)
 
 ## This simple app is an example of shared button
 
